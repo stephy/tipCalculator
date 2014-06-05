@@ -9,3 +9,6 @@ Completed user stories:
  * [x] Required: Main View
  * [x] Required: Settings View
  * [x] Optional: Change layout colors, views
+
+![alt tag](https://raw.githubusercontent.com/stephy/tipCalculator/master/mainview.png)
+![alt tag](https://raw.githubusercontent.com/stephy/tipCalculator/master/settingsview.png)
